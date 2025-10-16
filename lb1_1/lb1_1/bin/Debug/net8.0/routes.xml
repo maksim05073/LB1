@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRouteTaxi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RouteTaxi>
+    <RouteNumber>101</RouteNumber>
+    <Fare>10</Fare>
+    <Stops>
+      <string>Центр</string>
+      <string>Університет</string>
+      <string>Базар</string>
+      <string>Автовокзал</string>
+    </Stops>
+    <IntervalBetweenStopsMin>4</IntervalBetweenStopsMin>
+  </RouteTaxi>
+  <RouteTaxi>
+    <RouteNumber>202</RouteNumber>
+    <Fare>12.5</Fare>
+    <Stops>
+      <string>Центр</string>
+      <string>Магазин</string>
+      <string>Лікарня</string>
+      <string>Автовокзал</string>
+    </Stops>
+    <IntervalBetweenStopsMin>3</IntervalBetweenStopsMin>
+  </RouteTaxi>
+  <RouteTaxi>
+    <RouteNumber>303</RouteNumber>
+    <Fare>9.5</Fare>
+    <Stops>
+      <string>Школа</string>
+      <string>Парк</string>
+      <string>Ринок</string>
+    </Stops>
+    <IntervalBetweenStopsMin>5</IntervalBetweenStopsMin>
+  </RouteTaxi>
+</ArrayOfRouteTaxi>

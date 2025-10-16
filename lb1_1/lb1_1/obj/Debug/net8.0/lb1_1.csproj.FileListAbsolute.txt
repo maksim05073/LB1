@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\bin\Debug\net8.0\lb1_1.exe
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\bin\Debug\net8.0\lb1_1.deps.json
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\bin\Debug\net8.0\lb1_1.runtimeconfig.json
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\bin\Debug\net8.0\lb1_1.dll
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\bin\Debug\net8.0\lb1_1.pdb
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\lb1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\lb1_1.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\lb1_1.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\lb1_1.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\lb1_1.dll
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\refint\lb1_1.dll
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\lb1_1.pdb
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\lb1_1.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\lb1_1\lb1_1\obj\Debug\net8.0\ref\lb1_1.dll
