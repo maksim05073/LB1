@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\bin\Debug\net8.0\lb1_3.exe
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\bin\Debug\net8.0\lb1_3.deps.json
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\bin\Debug\net8.0\lb1_3.runtimeconfig.json
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\bin\Debug\net8.0\lb1_3.dll
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\bin\Debug\net8.0\lb1_3.pdb
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\lb1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\lb1_3.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\lb1_3.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\lb1_3.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\lb1_3.dll
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\refint\lb1_3.dll
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\lb1_3.pdb
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\lb1_3.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\lb1_3\lb1_3\obj\Debug\net8.0\ref\lb1_3.dll
